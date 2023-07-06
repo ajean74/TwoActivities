@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
         mReplyTextView = findViewById(R.id.text_message_reply);
     }
 
+    // test commit
+
     @Override
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
